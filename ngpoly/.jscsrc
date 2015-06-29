@@ -44,7 +44,6 @@
   ],
   "requireDotNotation": true,
   "requireLineFeedAtFileEnd": true,
-  "disallowMultipleVarDecl": true,
   "requireOperatorBeforeLineBreak": [
     "?",
     "=",

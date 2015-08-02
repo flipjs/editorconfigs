@@ -12,7 +12,7 @@
   "laxcomma": true,
   "newcap": true,
   "noarg": true,
-  "quotmark": "single",
+  "quotmark": "true",
   "regexp": true,
   "undef": true,
   "unused": true,
@@ -21,6 +21,9 @@
   "smarttabs": true,
   "white": true,
   "globals": {
-    "angular": false
+    "angular": false,
+    "google": false,
+    "document": false,
+    "$": false
   }
 }

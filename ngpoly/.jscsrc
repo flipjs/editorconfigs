@@ -34,8 +34,6 @@
   "requireCapitalizedConstructors": true,
   "requireCamelCaseOrUpperCaseIdentifiers": true,
   "requireCurlyBraces": [
-    "if",
-    "else",
     "for",
     "while",
     "do",

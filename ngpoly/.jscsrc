@@ -32,7 +32,6 @@
   },
   "requireBlocksOnNewline": 1,
   "requireCapitalizedConstructors": true,
-  "requireCamelCaseOrUpperCaseIdentifiers": true,
   "requireCurlyBraces": [
     "for",
     "while",

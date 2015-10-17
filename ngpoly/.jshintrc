@@ -26,6 +26,7 @@
     "angular": false,
     "google": false,
     "document": false,
+    "jQuery": false,
     "$": false
   }
 }
